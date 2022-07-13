@@ -1,4 +1,5 @@
 ### Hi! I'm Rodrigo
+<hr>
 
 <div align="center">
   <a href="https://github.com/shinaikos">
@@ -17,7 +18,7 @@
   <img align="center" alt="shinaikos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
   
-  
+  <hr>
  <div> 
   <a href="https://www.linkedin.com/in/rodrigo-assis-pires/" target="_blank">
             <img align="center" alt="shinaikos-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
