@@ -18,7 +18,9 @@
   <img align="center" alt="shinaikos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
   <br>
-  ## Contact
+  
+  ### Contact
+  
   <hr>
  <div> 
   <a href="https://www.linkedin.com/in/rodrigo-assis-pires/" target="_blank">
